@@ -1,1 +1,5 @@
-### To-Do app
+# To-Do app
+
+
+### Technology used
+  - React
