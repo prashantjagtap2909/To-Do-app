@@ -1,15 +1,8 @@
-# To-Do app
-  - One can able to list their daily tasks and mark it as completed or not?
-
-### Technology used
-  - React
-
-
 
 <br/>
 <p align="center">
   <a href="https://github.com/prashantjagtap2909/To-Do-app">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="![image](https://github.com/prashantjagtap2909/To-Do-app/assets/93985255/51dfe227-3719-44b1-90aa-9a5ace396bd4)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">To Do </h3>
