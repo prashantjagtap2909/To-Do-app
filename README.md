@@ -1,5 +1,5 @@
 # To-Do app
-
+  - One can able to list their daily tasks and mark it as completed or not?
 
 ### Technology used
   - React
