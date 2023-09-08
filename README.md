@@ -114,6 +114,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/prashantjagt
 
 ## Authors
 
-* **Prashant Jagtap** - *3rd year Comp Sci Student* - [Prashant Jagtap](https://github.com/prashantjagtap2909/) - *Built ReadME Template*
+* **Prashant Jagtap** - *3rd year Comp Sci Student* - [Prashant Jagtap](https://github.com/prashantjagtap2909/) 
 
 
