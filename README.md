@@ -1,11 +1,11 @@
-
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FTo-Do-app&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 <p align="center">
   <a href="https://github.com/prashantjagtap2909/To-Do-app">
     <img src="https://github.com/prashantjagtap2909/To-Do-app/assets/93985255/51dfe227-3719-44b1-90aa-9a5ace396bd4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">To Do </h3>
+  <h3 align="center">To Do  </h3>
 
   <p align="center">
     An Awesome To Do app created using React....
